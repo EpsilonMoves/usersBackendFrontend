@@ -4,4 +4,4 @@ const USER_ROLES = {
   DRIVER: 'driver'
 }
 
-module.exports = { USER_ROLES }
+export default { USER_ROLES }
